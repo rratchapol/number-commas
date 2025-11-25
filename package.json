@@ -1,0 +1,22 @@
+{
+  "name": "number-commas",
+  "version": "1.0.1",
+  "description": "A simple library to format numbers with commas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "comma",
+    "format",
+    "thousands",
+    "separator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
