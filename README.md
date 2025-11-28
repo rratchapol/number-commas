@@ -56,6 +56,5 @@ const decimal = 12345.6789;
 console.log(`Value: ${numberCommas(decimal)}`); // "Value: 12,345.6789"
 ```
 
-## License
-
-ISC
+## Developer
+rratchapol
